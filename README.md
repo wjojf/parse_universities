@@ -17,5 +17,5 @@ python3 parse_universities.py
 ```
 
 # Results
-1)universities.xlsx - all programs parsed
-2)universities_less_7000_usd.xlsx - programs, which cost <= 7000 USD per year in given list of countries
+1) universities.xlsx - all programs parsed
+2) universities_less_7000_usd.xlsx - programs, which cost <= 7000 USD per year in given list of countries
