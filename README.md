@@ -13,7 +13,6 @@ Quick fun project:  analyzing european computer science programs
 
 ```
 python3 parse_universities.py
-
 ```
 
 # Results
