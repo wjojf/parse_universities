@@ -6,7 +6,7 @@ import parse_funcs as pf
 
 # CONSTANTS 
 URL_BASE = 'https://www.bachelorstudies.com/Computer-Science/?page='
-N_PAGES = 20
+N_PAGES = 30
 __DIR__ = os.getcwd()
 HTML_DIR = os.path.join(__DIR__, 'html')
 

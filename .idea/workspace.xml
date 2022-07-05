@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6f898d4-953c-4966-a74c-0091f2abb64f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/analyze_universities.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analyze_universities.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_10.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_11.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_12.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_13.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_14.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_15.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_16.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_17.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_18.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_19.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_20.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_8.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/page_9.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/page_9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse_universities.py" beforeDir="false" afterPath="$PROJECT_DIR$/parse_universities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/universities.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/universities.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/universities_less_7000_usd.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/universities_less_7000_usd.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2BX7glmfXV4QjyUSB98E53dkiGU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6f898d4-953c-4966-a74c-0091f2abb64f" name="Default Changelist" comment="" />
+      <created>1657040689574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657040689574</updated>
+    </task>
+    <servers />
+  </component>
+</project>
